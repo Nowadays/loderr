@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Lodash, but not better",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Nowadays/loderr"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
