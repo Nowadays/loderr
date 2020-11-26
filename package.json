@@ -1,0 +1,14 @@
+{
+  "name": "loderr",
+  "version": "1.0.0",
+  "description": "Lodash, but not better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Momo Lyr",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
